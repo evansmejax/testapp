@@ -5,3 +5,4 @@ psycopg2
 python-dotenv
 typing_extensions
 django-extensions
+gunicorn
