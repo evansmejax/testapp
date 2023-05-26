@@ -1,0 +1,8 @@
+dj-database-url
+django-cors-headers
+django-environ
+psycopg2
+python-dotenv
+typing_extensions
+django-extensions
+gunicorn
